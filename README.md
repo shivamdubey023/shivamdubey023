@@ -57,14 +57,17 @@ Beginner-friendly posts on Python, AI concepts, and practical coding tips – ma
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivamdubey023&show_icons=true&theme=tokyonight" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamdubey023&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamdubey023&theme=tokyonight" />
+
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdubey023&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
