@@ -99,4 +99,5 @@ Beginner-friendly posts on Python, AI concepts, and practical coding tips – ma
 
 ---
 
+
 > 💡 “I don’t just code — I create solutions that are simple, scalable, and smart.”
