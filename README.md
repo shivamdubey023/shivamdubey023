@@ -57,9 +57,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamdubey023&theme=default" alt="Shivam Kumar Dubey Profile Details" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamdubey023&theme=default" alt="Shivam Kumar Dubey Top Languages" />
-  <p align="center">
   <img
     alt="Pacman contribution graph"
     src="https://raw.githubusercontent.com/shivamdubey023/shivamdubey023/output/pacman-contribution-graph.svg"
