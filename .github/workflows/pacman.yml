@@ -1,8 +1,8 @@
-name: Generate Snake
+name: Generate Pacman
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */24 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,14 +13,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Pacman contribution graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: shivamdubey023
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
