@@ -62,14 +62,14 @@
   <img src="https://streak-stats.demolab.com?user=shivamdubey023&theme=default&hide_border=true" alt="Shivam Kumar Dubey Streak Stats" />
 </p>
 
-<picture>
+
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/shivamdubey023/shivamdubey023/output/github-contribution-grid-snake-dark.svg"
   />
 
   <source
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: green)"
     srcset="https://raw.githubusercontent.com/shivamdubey023/shivamdubey023/output/github-contribution-grid-snake.svg"
   />
 
@@ -77,4 +77,4 @@
     alt="GitHub contribution snake animation"
     src="https://raw.githubusercontent.com/shivamdubey023/shivamdubey023/output/github-contribution-grid-snake.svg"
   />
-</picture>
+
