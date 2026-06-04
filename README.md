@@ -66,9 +66,4 @@
   />
 </p>
 
-<h2 align="center">🤖 Contribution Collector</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shivamdubey023/shivamdubey023/output/robot-contribution-collector.svg" />
-</p>
 
