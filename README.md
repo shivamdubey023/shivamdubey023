@@ -1,79 +1,71 @@
-<h1 align="center">Hi 👋, I'm Shivam Kumar Dubey</h1>
-
-<h3 align="center">
-Backend Developer • QA Automation Engineer • Problem Solver
-</h3>
+<div align="center">
+  <img src="banner.png" width="100%" alt="Shivam Kumar Dubey Banner" />
+</div>
+<br />
 
 <p align="center">
-Passionate about building scalable backend systems, automating testing workflows,
-and creating reliable software solutions using Python, Django, Selenium, and REST APIs.
+  <a href="https://www.linkedin.com/in/shivam-kumar-dubey-970a87248/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/shivamdubey023" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:dubeysk2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/shivamdubey023" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
-## 🚀 About Me
+<h1 align="center">Hi there 👋, &lt; devs /&gt;</h1>
 
-- 🎓 B.Tech CSE (Data Science)
-- 💼 Quality Assurance Associate
-- 🤖 Former Automation Tester Intern
-- 🌱 Currently learning System Design, Docker, CI/CD & Advanced Django
-- 🔭 Building Backend APIs and Automation Solutions
-- ⚡ Interested in Backend Engineering, QA Automation, and DevOps
+<p align="center">
+  My name is <b>Shivam Kumar Dubey</b>. A passionate <b>Backend Developer</b> and <b>QA Automation Engineer</b> from India. My main areas of interest are <b>Python</b>, <b>Django</b>, <b>REST APIs</b>, and <b>Automation Testing</b>. Right now, I'm learning <b>Docker</b>, <b>System Design</b>, and <b>CI/CD</b>. Aside from this, I enjoy solving real-world problems through clean code, scalable backend systems, and automated testing solutions.
+</p>
 
-## 🛠️ Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-### Languages
-Python • JavaScript • SQL
+<div align="center">
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <h3>Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap&perline=4" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>Backend</h3>
+      <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,mongodb,mysql,postgresql&perline=4" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>Tools & Others</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vscode&perline=4" />
+    </td>
+  </tr>
+</table>
+</div>
 
-### Backend
-Django • Node.js • Express.js • REST APIs
+<h2 align="center">Top Skills</h2>
 
-### Testing
-Selenium WebDriver • Manual Testing • Functional Testing • Regression Testing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,mongodb,mysql,postgresql,selenium,git,github,postman,docker" />
+</p>
 
-### Databases
-MongoDB • MySQL • PostgreSQL
+<h2 align="center">Statistics</h2>
 
-### Tools
-Git • GitHub • Postman • Chrome DevTools • Linux • Docker
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamdubey023&theme=default" alt="Shivam Kumar Dubey Profile Details" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamdubey023&theme=default" alt="Shivam Kumar Dubey Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=shivamdubey023&theme=default&hide_border=true" alt="Shivam Kumar Dubey Streak Stats" />
+</p>
 
-## 🚀 Featured Projects
-
-### 🧘 SnoRelax
-Full Stack Mental Wellness Platform
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-
-### 📋 Student Task Management API
-Backend API using Django & SQL
-- Authentication
-- CRUD Operations
-- REST APIs
-
-### 🔍 QA Error Inspector
-Chrome Extension for QA Engineers
-- JavaScript
-- Chrome DevTools
-
-### 🤖 Selenium Automation Test Suite
-Automated Testing Framework
-- Python
-- Selenium WebDriver
-- Test Automation
-
-## 📈 GitHub Statistics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamdubey023&theme=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamdubey023&theme=github)
-
-![](https://streak-stats.demolab.com?user=shivamdubey023)
-
-
-## 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/shivam-kumar-dubey-970a87248
-- GitHub: github.com/shivamdubey023
-- Email: dubeysk2003@gmail.com
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamdubey023/shivamdubey023/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivamdubey023/shivamdubey023/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shivamdubey023/shivamdubey023/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
