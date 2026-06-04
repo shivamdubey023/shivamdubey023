@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="Shivam Kumar Dubey Banner" />
+  <img src="banner.jpg" width="100%" alt="Shivam Kumar Dubey Banner" />
 </div>
 <br />
 
@@ -66,4 +66,8 @@
   />
 </p>
 
+## 📫 Connect With Me
 
+- LinkedIn: www.linkedin.com/in/shivam-kumar-dubey-970a87248
+- GitHub: github.com/shivamdubey023
+- Email: dubeysk2003@gmail.com
