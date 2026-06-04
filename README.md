@@ -59,7 +59,11 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamdubey023&theme=default" alt="Shivam Kumar Dubey Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=shivamdubey023&theme=default&hide_border=true" alt="Shivam Kumar Dubey Streak Stats" />
+  <p align="center">
+  <img
+    alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/shivamdubey023/shivamdubey023/output/pacman-contribution-graph.svg"
+  />
 </p>
 
 <h2 align="center">🤖 Contribution Collector</h2>
