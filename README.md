@@ -62,19 +62,9 @@
   <img src="https://streak-stats.demolab.com?user=shivamdubey023&theme=default&hide_border=true" alt="Shivam Kumar Dubey Streak Stats" />
 </p>
 
+<h2 align="center">🤖 Contribution Collector</h2>
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/shivamdubey023/shivamdubey023/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: green)"
-    srcset="https://raw.githubusercontent.com/shivamdubey023/shivamdubey023/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/shivamdubey023/shivamdubey023/output/github-contribution-grid-snake.svg"
-  />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivamdubey023/shivamdubey023/output/robot-contribution-collector.svg" />
+</p>
 
